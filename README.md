@@ -1,5 +1,8 @@
 # Sean Coughlin
 
+![Banner](https://github.com/Scc33/Scc33/blob/1fba88a3bfe5a976c145f914039f13c7a0d0bf06/linkedin-banner-image%20copy%203.png)
+![Banner](https://github.com/Scc33/Scc33/blob/1fba88a3bfe5a976c145f914039f13c7a0d0bf06/linkedin-banner-image-2.png)
+
 ## 😄 Personal Info
 Email: coughlinscc33@gmail.com \
 Github username: Scc33 \
