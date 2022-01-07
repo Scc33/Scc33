@@ -5,7 +5,7 @@
 ## 😄 Personal Info
 Email: coughlinscc33@gmail.com \
 Github username: Scc33 \
-Check me out over on [LinkedIn](https://www.linkedin.com/in/sean-m-coughlin/) or on my [personal website](https://scc33.github.io).
+Check me out over on [LinkedIn](https://www.linkedin.com/in/sean-m-coughlin/), on my [personal website](https://scc33.github.io), or on my [blog](https://blog.seancoughlin.me).
 
 ## ⚙️ Technologies and Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
