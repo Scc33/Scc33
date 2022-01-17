@@ -3,9 +3,14 @@
 # Sean Coughlin
 
 ## 😄 Personal Info
-Email: coughlinscc33@gmail.com \
-Github username: Scc33 \
-Check me out over on [LinkedIn](https://www.linkedin.com/in/sean-m-coughlin/), on my [personal website](https://scc33.github.io), or on my [blog](https://blog.seancoughlin.me).
+ - 📧 Email: coughlinscc33@gmail.com
+ - ⚙️ Github username: Scc33
+ - 🗂 [LinkedIn](https://www.linkedin.com/in/sean-m-coughlin/)
+ - 💻 [Personal website](https://seancoughlin.me)
+ - 📑 [Resume](https://seancoughlin.me/resume.html)
+ - ✍🏼 [Personal blog](https://blog.seancoughlin.me)
+ - 📚 [Medium](https://sean-coughlin.medium.com)
+ - 🐥 [Twitter](https://twitter.com/sean_coughlin_)
 
 ## ⚙️ Technologies and Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -18,6 +23,11 @@ Check me out over on [LinkedIn](https://www.linkedin.com/in/sean-m-coughlin/), o
 ## 📊 Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scc33&hide=contribs&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🤟🏼 Tops Languagues
+## 🤟🏼 Top Languagues
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scc33&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🗞 Favorite Articles
+ - [Basics of SEO](https://blog.seancoughlin.me/basics-search-engine-optimization)
+ - [Hosting an API with GitHub Pages](https://blog.seancoughlin.me/hosting-an-api-with-github-pages)
+ - [Building a Personal Website with GitHub Pages](https://blog.seancoughlin.me/building-a-personal-website-with-github-pages)
 
