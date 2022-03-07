@@ -23,6 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Market Yourself With a Killer GitHub Readme](https://blog.seancoughlin.me/market-yourself-with-a-killer-github-readme)
+- [Market Yourself With a Killer GitHub Readme](https://sean-coughlin.medium.com/market-yourself-with-a-killer-github-readme-cf529264453?source=rss-a1d9ffc70c73------2)
+- [One Step to Create a Killer Blog Post Title](https://sean-coughlin.medium.com/one-step-to-create-a-killer-blog-post-title-62fee26dc15f?source=rss-a1d9ffc70c73------2)
+- [I’ve Joined the Medium Partnership Program and You Can Too](https://sean-coughlin.medium.com/ive-joined-the-medium-partnership-program-and-you-can-too-e9904c562dfd?source=rss-a1d9ffc70c73------2)
+- [Why you Definitely Should Write Shortform Content on Medium](https://sean-coughlin.medium.com/why-you-definitely-should-write-shortform-content-on-medium-9ef4a5cded13?source=rss-a1d9ffc70c73------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
