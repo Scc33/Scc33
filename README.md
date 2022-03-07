@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Six Vocab Words to Get Started With Kubernetes](https://sean-coughlin.medium.com/six-vocab-words-to-get-started-with-kubernetes-efa55e6e054?source=rss-a1d9ffc70c73------2)
 - [Building an Electrical Grid for Tomorrow](https://sean-coughlin.medium.com/building-an-electrical-grid-for-tomorrow-ec4ab01d015?source=rss-a1d9ffc70c73------2)
 - [Market Yourself With a Killer GitHub Readme](https://blog.seancoughlin.me/market-yourself-with-a-killer-github-readme)
 - [Market Yourself With a Killer GitHub Readme](https://sean-coughlin.medium.com/market-yourself-with-a-killer-github-readme-cf529264453?source=rss-a1d9ffc70c73------2)
 - [One Step to Create a Killer Blog Post Title](https://sean-coughlin.medium.com/one-step-to-create-a-killer-blog-post-title-62fee26dc15f?source=rss-a1d9ffc70c73------2)
-- [I’ve Joined the Medium Partnership Program and You Can Too](https://sean-coughlin.medium.com/ive-joined-the-medium-partnership-program-and-you-can-too-e9904c562dfd?source=rss-a1d9ffc70c73------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
