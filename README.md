@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Three Months And Thirty Stories Later](https://sean-coughlin.medium.com/three-months-and-thirty-stories-later-4e1f5cefb29b?source=rss-a1d9ffc70c73------2)
 - [Coolest GitHub Repos For Leveling Up Your Skills](https://sean-coughlin.medium.com/coolest-github-repos-for-leveling-up-your-skills-bc9b48621015?source=rss-a1d9ffc70c73------2)
 - [How to Become a More Consistent Blogger](https://sean-coughlin.medium.com/how-to-become-a-more-consistent-blogger-c4db9bc98c41?source=rss-a1d9ffc70c73------2)
 - [A take on Apple’s March 2022 Peek Performance Event](https://sean-coughlin.medium.com/a-take-on-apples-march-2022-peek-performance-event-1b320a4980bb?source=rss-a1d9ffc70c73------2)
 - [Starting A New Job is Hard](https://sean-coughlin.medium.com/starting-a-new-job-is-hard-a9f599ab93cf?source=rss-a1d9ffc70c73------2)
-- [Six Vocab Words to Get Started With Kubernetes](https://sean-coughlin.medium.com/six-vocab-words-to-get-started-with-kubernetes-efa55e6e054?source=rss-a1d9ffc70c73------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
