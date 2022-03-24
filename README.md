@@ -24,10 +24,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [What are Microservices?](https://sean-coughlin.medium.com/what-are-microservices-58a9699693b5?source=rss-a1d9ffc70c73------2)
+- [What are Microservices?](https://blog.seancoughlin.me/what-are-microservices)
 - [Back to the Basics](https://sean-coughlin.medium.com/back-to-the-basics-8d0594c50813?source=rss-a1d9ffc70c73------2)
 - [Looking to Learn Programming — TRY 100 Days of Code](https://sean-coughlin.medium.com/looking-to-learn-programming-try-100-days-of-code-67cc672c0562?source=rss-a1d9ffc70c73------2)
 - [Three Months And Thirty Stories Later](https://sean-coughlin.medium.com/three-months-and-thirty-stories-later-4e1f5cefb29b?source=rss-a1d9ffc70c73------2)
-- [Coolest GitHub Repos For Leveling Up Your Skills](https://sean-coughlin.medium.com/coolest-github-repos-for-leveling-up-your-skills-bc9b48621015?source=rss-a1d9ffc70c73------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
