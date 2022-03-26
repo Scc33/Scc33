@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is software testing?](https://sean-coughlin.medium.com/what-is-software-testing-4e7c780dc222?source=rss-a1d9ffc70c73------2)
 - [What is TDD?](https://blog.seancoughlin.me/what-is-tdd)
 - [What is software testing?](https://blog.seancoughlin.me/what-is-software-testing)
 - [What are Microservices?](https://sean-coughlin.medium.com/what-are-microservices-58a9699693b5?source=rss-a1d9ffc70c73------2)
 - [What are Microservices?](https://blog.seancoughlin.me/what-are-microservices)
-- [Back to the Basics](https://sean-coughlin.medium.com/back-to-the-basics-8d0594c50813?source=rss-a1d9ffc70c73------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
