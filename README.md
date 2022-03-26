@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Behavior-Driven Development?](https://sean-coughlin.medium.com/what-is-behavior-driven-development-9e048a3cadcd?source=rss-a1d9ffc70c73------2)
 - [What is Test-Driven Development &lpar;TDD&rpar;?](https://sean-coughlin.medium.com/what-is-test-driven-development-tdd-fac5c5b735f0?source=rss-a1d9ffc70c73------2)
 - [What is software testing?](https://sean-coughlin.medium.com/what-is-software-testing-4e7c780dc222?source=rss-a1d9ffc70c73------2)
 - [What is TDD?](https://blog.seancoughlin.me/what-is-tdd)
 - [What is software testing?](https://blog.seancoughlin.me/what-is-software-testing)
-- [What are Microservices?](https://sean-coughlin.medium.com/what-are-microservices-58a9699693b5?source=rss-a1d9ffc70c73------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
