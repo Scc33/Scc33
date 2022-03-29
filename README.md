@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Unit Testing?](https://sean-coughlin.medium.com/what-is-unit-testing-c0c5d96ad8f9?source=rss-a1d9ffc70c73------2)
+- [What is a unit test?](https://blog.seancoughlin.me/what-is-a-unit-test)
 - [What is Behavior-Driven Development?](https://sean-coughlin.medium.com/what-is-behavior-driven-development-9e048a3cadcd?source=rss-a1d9ffc70c73------2)
 - [What is BDD?](https://blog.seancoughlin.me/what-is-bdd)
 - [What is Test-Driven Development &lpar;TDD&rpar;?](https://sean-coughlin.medium.com/what-is-test-driven-development-tdd-fac5c5b735f0?source=rss-a1d9ffc70c73------2)
-- [What is software testing?](https://sean-coughlin.medium.com/what-is-software-testing-4e7c780dc222?source=rss-a1d9ffc70c73------2)
-- [What is TDD?](https://blog.seancoughlin.me/what-is-tdd)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
