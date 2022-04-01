@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Save Your Hashnode Articles to GitHub](https://sean-coughlin.medium.com/how-to-save-your-hashnode-articles-to-github-c12efd42feb1?source=rss-a1d9ffc70c73------2)
+- [How to Save Your Hashnode Articles to GitHub](https://blog.seancoughlin.me/how-to-save-your-hashnode-articles-to-github)
 - [My Journey to iOS development](https://sean-coughlin.medium.com/my-journey-to-ios-development-ca06568af2da?source=rss-a1d9ffc70c73------2)
+- [My Journey to iOS development](https://blog.seancoughlin.me/my-journey-to-ios-development)
 - [Welcome to iOS Development](https://sean-coughlin.medium.com/welcome-to-ios-development-ada7f69d263c?source=rss-a1d9ffc70c73------2)
-- [Welcome to iOS Development](https://blog.seancoughlin.me/welcome-to-ios-development)
-- [What is Integration Testing?](https://sean-coughlin.medium.com/what-is-integration-testing-874a43477ba?source=rss-a1d9ffc70c73------2)
-- [What is Integration Testing?](https://blog.seancoughlin.me/what-is-integration-testing)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
