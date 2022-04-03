@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Compound Interest Solver](https://sean-coughlin.medium.com/compound-interest-solver-95be6029d345?source=rss-a1d9ffc70c73------2)
+- [Compound Interest Solver](https://medium.com/ios-app-dev/compound-interest-solver-95be6029d345?source=rss-a1d9ffc70c73------2)
+- [Compound Interest Solver](https://blog.seancoughlin.me/compound-interest-solver)
 - [How to Save Your Hashnode Articles to GitHub](https://sean-coughlin.medium.com/how-to-save-your-hashnode-articles-to-github-c12efd42feb1?source=rss-a1d9ffc70c73------2)
 - [How to Save Your Hashnode Articles to GitHub](https://blog.seancoughlin.me/how-to-save-your-hashnode-articles-to-github)
 - [My Journey to iOS development](https://sean-coughlin.medium.com/my-journey-to-ios-development-ca06568af2da?source=rss-a1d9ffc70c73------2)
-- [My Journey to iOS development](https://blog.seancoughlin.me/my-journey-to-ios-development)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
