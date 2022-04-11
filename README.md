@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Best Way to Learn to Create Apps is By Creating an App](https://medium.com/ios-app-dev/the-best-way-to-learn-to-create-apps-is-by-creating-an-app-dc36e40cc303?source=rss-a1d9ffc70c73------2)
 - [The Best Way to Learn to Create Apps is By Creating an App](https://blog.seancoughlin.me/the-best-way-to-learn-to-create-apps-is-by-creating-an-app)
+- [Compound Interest Solver](https://medium.com/ios-app-dev/compound-interest-solver-95be6029d345?source=rss-a1d9ffc70c73------2)
 - [Compound Interest Solver](https://blog.seancoughlin.me/compound-interest-solver)
-- [How to Save Your Hashnode Articles to GitHub](https://blog.seancoughlin.me/how-to-save-your-hashnode-articles-to-github)
-- [My Journey to iOS development](https://blog.seancoughlin.me/my-journey-to-ios-development)
-- [Welcome to iOS Development](https://blog.seancoughlin.me/welcome-to-ios-development)
+- [How to Save Your Hashnode Articles to GitHub](https://sean-coughlin.medium.com/how-to-save-your-hashnode-articles-to-github-c12efd42feb1?source=rss-a1d9ffc70c73------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
