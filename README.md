@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Pragmatic Programmer — Book Review](https://sean-coughlin.medium.com/the-pragmatic-programmer-book-review-81fcae28042b?source=rss-a1d9ffc70c73------2)
+- [The Pragmatic Programmer - Book Review](https://blog.seancoughlin.me/the-pragmatic-programmer-book-review)
 - [UIUC MCS — CS 435 Review — Cloud Computer Networking](https://sean-coughlin.medium.com/uiuc-mcs-cs-435-review-cloud-computer-networking-7db894fc8a6d?source=rss-a1d9ffc70c73------2)
 - [UIUC MCS - CS 435 Review - Cloud Computer Networking](https://blog.seancoughlin.me/uiuc-mcs-cs-435-review-cloud-computer-networking)
 - [UIUC MCS — CS 427 Software Engineering Course Review](https://sean-coughlin.medium.com/uiuc-mcs-cs-427-software-engineering-course-review-2fc96d7433c7?source=rss-a1d9ffc70c73------2)
-- [UIUC MCS - CS 427 Review - Software Engineering](https://blog.seancoughlin.me/uiuc-mcs-cs-427-review-software-engineering)
-- [Creating Amazing iOS Charts With SwiftUI](https://sean-coughlin.medium.com/creating-amazing-ios-charts-with-swiftui-2a17b9982928?source=rss-a1d9ffc70c73------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
