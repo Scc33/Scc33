@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Solve the Valid Parentheses Leetcode Problem](https://sean-coughlin.medium.com/how-to-solve-the-valid-parentheses-leetcode-problem-66a661c8711b?source=rss-a1d9ffc70c73------2)
+- [How to Determine Valid Parentheses](https://blog.seancoughlin.me/how-to-determine-valid-parentheses)
 - [Find the Index of the First Occurrence in a String &lpar;Naive and KMP Solutions&rpar;](https://sean-coughlin.medium.com/inarindex-first-occurrence-in-string-a7f2a24b0fe9?source=rss-a1d9ffc70c73------2)
 - [Find the Index of the First Occurrence in a String &lpar;Naive and KMP Solutions&rpar;](https://blog.seancoughlin.me/find-the-index-of-the-first-occurrence-in-a-string-naive-and-kmp-solutions)
 - [Intro to SWE Interview Prep &amp; System Design Tips](https://sean-coughlin.medium.com/intro-to-swe-interview-prep-system-design-tips-5d949fbac4b7?source=rss-a1d9ffc70c73------2)
-- [Intro to Software Engineering Interview Prep and System Design: Tips and Resources for Success](https://blog.seancoughlin.me/intro-to-software-engineering-interview-prep-and-system-design-tips-and-resources-for-success)
-- [UIUC MCS — CS 498 Review — Cloud Computing Applications](https://sean-coughlin.medium.com/uiuc-mcs-cs-498-review-cloud-computing-applications-d545827f315c?source=rss-a1d9ffc70c73------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
