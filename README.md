@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying the Cloud: Understanding the Fundamentals and Impact of Cloud Computing](https://sean-coughlin.medium.com/demystifying-the-cloud-understanding-the-fundamentals-and-impact-of-cloud-computing-6c3ca30a8d20?source=rss-a1d9ffc70c73------2)
+- [Demystifying the Cloud: Understanding the Fundamentals and Impact of Cloud Computing](https://blog.seancoughlin.me/demystifying-the-cloud-understanding-the-fundamentals-and-impact-of-cloud-computing)
 - [Cloud Computing: Welcome!](https://sean-coughlin.medium.com/cloud-computing-welcome-1448418071b9?source=rss-a1d9ffc70c73------2)
 - [Welcome to Cloud Computing!](https://blog.seancoughlin.me/welcome-to-cloud-computing)
 - [How to Solve the Valid Parentheses Leetcode Problem](https://sean-coughlin.medium.com/how-to-solve-the-valid-parentheses-leetcode-problem-66a661c8711b?source=rss-a1d9ffc70c73------2)
-- [How to Determine Valid Parentheses](https://blog.seancoughlin.me/how-to-determine-valid-parentheses)
-- [Find the Index of the First Occurrence in a String &lpar;Naive and KMP Solutions&rpar;](https://sean-coughlin.medium.com/inarindex-first-occurrence-in-string-a7f2a24b0fe9?source=rss-a1d9ffc70c73------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
