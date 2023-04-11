@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazon EC2: Cloud Computing via Virtual Servers](https://sean-coughlin.medium.com/amazon-ec2-cloud-computing-via-virtual-servers-1aacf7b8f691?source=rss-a1d9ffc70c73------2)
 - [Amazon EC2: Powering Cloud Computing with Virtual Servers](https://blog.seancoughlin.me/amazon-ec2-powering-cloud-computing-with-virtual-servers)
 - [Understanding Cloud Storage: Object, Block, File, and Database Storage](https://sean-coughlin.medium.com/understanding-cloud-storage-object-block-file-and-database-storage-a70b168a9af6?source=rss-a1d9ffc70c73------2)
 - [Understanding Cloud Storage Types: Object, Block, File, and Database Storage](https://blog.seancoughlin.me/understanding-cloud-storage-types-object-block-file-and-database-storage)
 - [Exploring Cloud Computing Types: IaaS, PaaS, SaaS, and Beyond](https://sean-coughlin.medium.com/exploring-cloud-computing-types-iaas-paas-saas-and-beyond-f92b2e2ad791?source=rss-a1d9ffc70c73------2)
-- [Exploring Cloud Computing Types: IaaS, PaaS, SaaS, and Beyond](https://blog.seancoughlin.me/exploring-cloud-computing-types-iaas-paas-saas-and-beyond)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
