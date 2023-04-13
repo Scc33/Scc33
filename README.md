@@ -24,10 +24,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [A Comprehensive Guide to Serverless Computing](https://sean-coughlin.medium.com/a-comprehensive-guide-to-serverless-computing-5d18a83b9be1?source=rss-a1d9ffc70c73------2)
+- [Embracing the Future: Serverless Computing and Its Impact on Modern Software Development](https://blog.seancoughlin.me/embracing-the-future-serverless-computing-and-its-impact-on-modern-software-development)
 - [Amazon EC2: Cloud Computing via Virtual Servers](https://sean-coughlin.medium.com/amazon-ec2-cloud-computing-via-virtual-servers-1aacf7b8f691?source=rss-a1d9ffc70c73------2)
+- [Amazon EC2: Powering Cloud Computing with Virtual Servers](https://blog.seancoughlin.me/amazon-ec2-powering-cloud-computing-with-virtual-servers)
 - [Understanding Cloud Storage: Object, Block, File, and Database Storage](https://sean-coughlin.medium.com/understanding-cloud-storage-object-block-file-and-database-storage-a70b168a9af6?source=rss-a1d9ffc70c73------2)
-- [Exploring Cloud Computing Types: IaaS, PaaS, SaaS, and Beyond](https://sean-coughlin.medium.com/exploring-cloud-computing-types-iaas-paas-saas-and-beyond-f92b2e2ad791?source=rss-a1d9ffc70c73------2)
-- [Demystifying the Cloud: Understanding the Fundamentals and Impact of Cloud Computing](https://sean-coughlin.medium.com/demystifying-the-cloud-understanding-the-fundamentals-and-impact-of-cloud-computing-6c3ca30a8d20?source=rss-a1d9ffc70c73------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
