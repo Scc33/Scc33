@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [UIUC MCS — CS 416 Review — Data Visualization](https://sean-coughlin.medium.com/uiuc-mcs-cs-416-review-data-visualization-5c3a408f413b?source=rss-a1d9ffc70c73------2)
+- [UIUC MCS - CS 416 Review - Data Visualization](https://blog.seancoughlin.me/uiuc-mcs-cs-416-review-data-visualization)
 - [Exploring Cloud Models: Public, Private, Hybrid, and Multi-Cloud](https://sean-coughlin.medium.com/exploring-cloud-models-public-private-hybrid-and-multi-cloud-f4dbe9f5c0d7?source=rss-a1d9ffc70c73------2)
 - [Exploring Cloud Models: Public, Private, Hybrid, and Multi-Cloud](https://blog.seancoughlin.me/exploring-cloud-models-public-private-hybrid-and-multi-cloud)
 - [A Comprehensive Guide to Serverless Computing](https://sean-coughlin.medium.com/a-comprehensive-guide-to-serverless-computing-5d18a83b9be1?source=rss-a1d9ffc70c73------2)
-- [Embracing the Future: Serverless Computing and Its Impact on Modern Software Development](https://blog.seancoughlin.me/embracing-the-future-serverless-computing-and-its-impact-on-modern-software-development)
-- [Amazon EC2: Cloud Computing via Virtual Servers](https://sean-coughlin.medium.com/amazon-ec2-cloud-computing-via-virtual-servers-1aacf7b8f691?source=rss-a1d9ffc70c73------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
