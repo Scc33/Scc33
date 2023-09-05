@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [UIUC MCS — CS 513 Review — Theory and Practice of Data Cleaning](https://sean-coughlin.medium.com/uiuc-mcs-cs-513-review-theory-and-practice-of-data-cleaning-a65de51d651f?source=rss-a1d9ffc70c73------2)
+- [UIUC MCS - CS 513 Review - Theory and Practice of Data Cleaning](https://blog.seancoughlin.me/uiuc-mcs-cs-513-review-theory-and-practice-of-data-cleaning)
 - [UIUC MCS — CS 416 Review — Data Visualization](https://sean-coughlin.medium.com/uiuc-mcs-cs-416-review-data-visualization-5c3a408f413b?source=rss-a1d9ffc70c73------2)
 - [UIUC MCS - CS 416 Review - Data Visualization](https://blog.seancoughlin.me/uiuc-mcs-cs-416-review-data-visualization)
 - [Exploring Cloud Models: Public, Private, Hybrid, and Multi-Cloud](https://sean-coughlin.medium.com/exploring-cloud-models-public-private-hybrid-and-multi-cloud-f4dbe9f5c0d7?source=rss-a1d9ffc70c73------2)
-- [Exploring Cloud Models: Public, Private, Hybrid, and Multi-Cloud](https://blog.seancoughlin.me/exploring-cloud-models-public-private-hybrid-and-multi-cloud)
-- [A Comprehensive Guide to Serverless Computing](https://sean-coughlin.medium.com/a-comprehensive-guide-to-serverless-computing-5d18a83b9be1?source=rss-a1d9ffc70c73------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
