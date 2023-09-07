@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to validate a Sudoku board](https://sean-coughlin.medium.com/how-to-validate-a-sudoku-board-d446eb695707?source=rss-a1d9ffc70c73------2)
+- [How to validate a Sudoku board](https://blog.seancoughlin.me/how-to-validate-a-sudoku-board)
 - [How to Find First and Last Position of Element in Sorted Array](https://sean-coughlin.medium.com/how-to-find-first-and-last-position-of-element-in-sorted-array-10d8d1f36649?source=rss-a1d9ffc70c73------2)
 - [How to Find First and Last Position of Element in Sorted Array](https://blog.seancoughlin.me/how-to-find-first-and-last-position-of-element-in-sorted-array)
 - [UIUC MCS — CS 513 Review — Theory and Practice of Data Cleaning](https://sean-coughlin.medium.com/uiuc-mcs-cs-513-review-theory-and-practice-of-data-cleaning-a65de51d651f?source=rss-a1d9ffc70c73------2)
-- [UIUC MCS - CS 513 Review - Theory and Practice of Data Cleaning](https://blog.seancoughlin.me/uiuc-mcs-cs-513-review-theory-and-practice-of-data-cleaning)
-- [UIUC MCS — CS 416 Review — Data Visualization](https://sean-coughlin.medium.com/uiuc-mcs-cs-416-review-data-visualization-5c3a408f413b?source=rss-a1d9ffc70c73------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
