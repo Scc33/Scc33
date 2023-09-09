@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Landscape of Data Storage: A Comprehensive Guide to AWS DynamoDB vs.](https://sean-coughlin.medium.com/understanding-the-landscape-of-data-storage-a-comprehensive-guide-to-aws-dynamodb-vs-df35903b446a?source=rss-a1d9ffc70c73------2)
+- [Understanding the Landscape of Data Storage: A Comprehensive Guide to AWS DynamoDB vs. Redshift for Databases and Data Warehouses](https://blog.seancoughlin.me/understanding-the-landscape-of-data-storage-a-comprehensive-guide-to-aws-dynamodb-vs-redshift-for-databases-and-data-warehouses)
 - [Delete Duplicate Emails](https://sean-coughlin.medium.com/delete-duplicate-emails-c34b79982149?source=rss-a1d9ffc70c73------2)
 - [Delete Duplicate Emails](https://blog.seancoughlin.me/delete-duplicate-emails)
 - [Understanding Amazon Route 53: An In-depth Guide](https://sean-coughlin.medium.com/understanding-amazon-route-53-an-in-depth-guide-78aa7c9f136a?source=rss-a1d9ffc70c73------2)
-- [Understanding Amazon Route 53: An In-depth Guide](https://blog.seancoughlin.me/understanding-amazon-route-53-an-in-depth-guide)
-- [How to validate a Sudoku board](https://sean-coughlin.medium.com/how-to-validate-a-sudoku-board-d446eb695707?source=rss-a1d9ffc70c73------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
