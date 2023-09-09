@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Delete Duplicate Emails](https://sean-coughlin.medium.com/delete-duplicate-emails-c34b79982149?source=rss-a1d9ffc70c73------2)
+- [Delete Duplicate Emails](https://blog.seancoughlin.me/delete-duplicate-emails)
 - [Understanding Amazon Route 53: An In-depth Guide](https://sean-coughlin.medium.com/understanding-amazon-route-53-an-in-depth-guide-78aa7c9f136a?source=rss-a1d9ffc70c73------2)
 - [Understanding Amazon Route 53: An In-depth Guide](https://blog.seancoughlin.me/understanding-amazon-route-53-an-in-depth-guide)
 - [How to validate a Sudoku board](https://sean-coughlin.medium.com/how-to-validate-a-sudoku-board-d446eb695707?source=rss-a1d9ffc70c73------2)
-- [How to validate a Sudoku board](https://blog.seancoughlin.me/how-to-validate-a-sudoku-board)
-- [How to Find First and Last Position of Element in Sorted Array](https://sean-coughlin.medium.com/how-to-find-first-and-last-position-of-element-in-sorted-array-10d8d1f36649?source=rss-a1d9ffc70c73------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
