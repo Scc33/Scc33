@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fourth Wing](https://blog.seancoughlin.me/fourth-wing)
 - [Educated Book Review](https://blog.seancoughlin.me/educated-book-review)
 - [Understanding the Landscape of Data Storage: A Comprehensive Guide to AWS DynamoDB vs.](https://sean-coughlin.medium.com/understanding-the-landscape-of-data-storage-a-comprehensive-guide-to-aws-dynamodb-vs-df35903b446a?source=rss-a1d9ffc70c73------2)
 - [Understanding the Landscape of Data Storage: A Comprehensive Guide to AWS DynamoDB vs. Redshift for Databases and Data Warehouses](https://blog.seancoughlin.me/understanding-the-landscape-of-data-storage-a-comprehensive-guide-to-aws-dynamodb-vs-redshift-for-databases-and-data-warehouses)
 - [Delete Duplicate Emails](https://sean-coughlin.medium.com/delete-duplicate-emails-c34b79982149?source=rss-a1d9ffc70c73------2)
-- [Delete Duplicate Emails](https://blog.seancoughlin.me/delete-duplicate-emails)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
