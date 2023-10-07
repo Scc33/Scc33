@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Time to Rebrand! Designing a Personal Site with SvelteKit](https://sean-coughlin.medium.com/time-to-rebrand-designing-a-personal-site-with-sveltekit-2aaa0bf7617c?source=rss-a1d9ffc70c73------2)
+- [Fourth Wing Book Review](https://sean-coughlin.medium.com/fourth-wing-book-review-9499cffac56e?source=rss-a1d9ffc70c73------2)
+- [Educated Book Review](https://sean-coughlin.medium.com/educated-book-review-a6ca3c0d16f4?source=rss-a1d9ffc70c73------2)
+- [Time to Rebrand!  Designing a Personal Site with SvelteKit](https://blog.seancoughlin.me/time-to-rebrand-designing-a-personal-site-with-sveltekit)
 - [Fourth Wing](https://blog.seancoughlin.me/fourth-wing)
-- [Educated Book Review](https://blog.seancoughlin.me/educated-book-review)
-- [Understanding the Landscape of Data Storage: A Comprehensive Guide to AWS DynamoDB vs.](https://sean-coughlin.medium.com/understanding-the-landscape-of-data-storage-a-comprehensive-guide-to-aws-dynamodb-vs-df35903b446a?source=rss-a1d9ffc70c73------2)
-- [Understanding the Landscape of Data Storage: A Comprehensive Guide to AWS DynamoDB vs. Redshift for Databases and Data Warehouses](https://blog.seancoughlin.me/understanding-the-landscape-of-data-storage-a-comprehensive-guide-to-aws-dynamodb-vs-redshift-for-databases-and-data-warehouses)
-- [Delete Duplicate Emails](https://sean-coughlin.medium.com/delete-duplicate-emails-c34b79982149?source=rss-a1d9ffc70c73------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
