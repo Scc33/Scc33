@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Publishing a SvelteKit App to GitHub Pages](https://sean-coughlin.medium.com/publishing-a-sveltekit-app-to-github-pages-ab6dc44c31c3?source=rss-a1d9ffc70c73------2)
 - [Publishing a SvelteKit App to GitHub Pages](https://blog.seancoughlin.me/publishing-a-sveltekit-app-to-github-pages)
-- [Deploying to GitHub Pages using gh-pages](https://sean-coughlin.medium.com/deploying-to-github-pages-using-gh-pages-16c9fb4d6017?source=rss-a1d9ffc70c73------2)
 - [Deploying to GitHub Pages using gh-pages](https://blog.seancoughlin.me/deploying-to-github-pages-using-gh-pages)
-- [Time to Rebrand! Designing a Personal Site with SvelteKit](https://sean-coughlin.medium.com/time-to-rebrand-designing-a-personal-site-with-sveltekit-2aaa0bf7617c?source=rss-a1d9ffc70c73------2)
+- [Time to Rebrand!  Designing a Personal Site with SvelteKit](https://blog.seancoughlin.me/time-to-rebrand-designing-a-personal-site-with-sveltekit)
+- [Fourth Wing](https://blog.seancoughlin.me/fourth-wing)
+- [Educated Book Review](https://blog.seancoughlin.me/educated-book-review)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
