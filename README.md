@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Navigating Front-End Build Tools: A Comprehensive Guide for Developers](https://blog.seancoughlin.me/front-end-build-tools)
 - [Vitest vs. Jest: The New JavaScript Testing Framework](https://blog.seancoughlin.me/vitest-vs-jest-the-new-javascript-testing-framework)
 - [Vite vs. Create React App: Navigating the Best Tools for Modern React Web Development](https://blog.seancoughlin.me/vite-vs-create-react-app)
 - [Maximizing Web Development Efficiency: A Comprehensive Guide to Vite](https://blog.seancoughlin.me/maximizing-web-development-efficiency-a-comprehensive-guide-to-vite)
 - [Publishing a SvelteKit App to GitHub Pages](https://sean-coughlin.medium.com/publishing-a-sveltekit-app-to-github-pages-ab6dc44c31c3?source=rss-a1d9ffc70c73------2)
-- [Publishing a SvelteKit App to GitHub Pages](https://blog.seancoughlin.me/publishing-a-sveltekit-app-to-github-pages)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
