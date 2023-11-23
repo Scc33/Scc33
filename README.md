@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scc33" alt="scc33" /></a> </p>
 
-- 🔭 I’m currently working on [Compound Solver](https://apps.apple.com/us/app/compound-solver/id1607884819)
-
 - 👨‍💻 About me [https://seancoughlin.me](https://seancoughlin.me)
 
 - 📝 I regularly write articles on [https://blog.seancoughlin.me](https://blog.seancoughlin.me)
 
 - 📫 How to reach me **coughlinscc33@gmail.com**
 
-- 📄 Know about my experiences [https://seancoughlin.me/resume.html](https://seancoughlin.me/resume.html)
+- 📄 Know about my experiences [https://seancoughlin.me/resume.html](https://seancoughlin.me/assets/Resume.pdf)
 
 - ⚡ Fun fact **I juggle**
 
