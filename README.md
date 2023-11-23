@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn React Basics: Components and Props](https://blog.seancoughlin.me/learn-react-basics-components-and-props)
 - [Learn React Basics: React Hooks](https://blog.seancoughlin.me/learn-react-hooks)
 - [Navigating Front-End Build Tools: A Comprehensive Guide for Developers](https://blog.seancoughlin.me/front-end-build-tools)
 - [Vitest vs. Jest: The New JavaScript Testing Framework](https://blog.seancoughlin.me/vitest-vs-jest-the-new-javascript-testing-framework)
 - [Vite vs. Create React App: Navigating the Best Tools for Modern React Web Development](https://blog.seancoughlin.me/vite-vs-create-react-app)
-- [Maximizing Web Development Efficiency: A Comprehensive Guide to Vite](https://blog.seancoughlin.me/maximizing-web-development-efficiency-a-comprehensive-guide-to-vite)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
