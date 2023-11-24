@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn React Basics: React Router &amp; Navigating Single Page Applications](https://blog.seancoughlin.me/learn-react-basics-react-router-navigating-single-page-applications)
 - [Learn React Basics: Code Splitting](https://blog.seancoughlin.me/learn-react-basics-code-splitting)
 - [Learn React Basics: Components and Props](https://blog.seancoughlin.me/learn-react-basics-components-and-props)
 - [Learn React Basics: React Hooks](https://blog.seancoughlin.me/learn-react-hooks)
 - [Navigating Front-End Build Tools: A Comprehensive Guide for Developers](https://blog.seancoughlin.me/front-end-build-tools)
-- [Vitest vs. Jest: The New JavaScript Testing Framework](https://blog.seancoughlin.me/vitest-vs-jest-the-new-javascript-testing-framework)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
