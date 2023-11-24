@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Images with Dall·E and GPT](https://blog.seancoughlin.me/creating-images-with-dalle-and-gpt)
 - [Learn React Basics: React Router &amp; Navigating Single Page Applications](https://blog.seancoughlin.me/learn-react-basics-react-router-navigating-single-page-applications)
 - [Learn React Basics: Code Splitting](https://blog.seancoughlin.me/learn-react-basics-code-splitting)
 - [Learn React Basics: Components and Props](https://blog.seancoughlin.me/learn-react-basics-components-and-props)
 - [Learn React Basics: React Hooks](https://blog.seancoughlin.me/learn-react-hooks)
-- [Navigating Front-End Build Tools: A Comprehensive Guide for Developers](https://blog.seancoughlin.me/front-end-build-tools)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
