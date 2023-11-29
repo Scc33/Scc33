@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Streamlining Your JavaScript Development with GitHub Actions for Continuous Integration](https://blog.seancoughlin.me/streamlining-your-javascript-development-with-github-actions-for-continuous-integration)
 - [Automating NPM Dependency Updates with GitHub Actions](https://blog.seancoughlin.me/automating-npm-dependency-updates-with-github-actions)
 - [What is the package.json file?](https://blog.seancoughlin.me/what-is-the-packagejson-file)
 - [Understanding System Testing in Software Engineering](https://blog.seancoughlin.me/understanding-system-testing-in-software-engineering)
 - [Learn React Basics: Next.Js](https://blog.seancoughlin.me/learn-react-basics-nextjs)
-- [Learn React Basics: Redux](https://blog.seancoughlin.me/learn-react-basics-redux)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
