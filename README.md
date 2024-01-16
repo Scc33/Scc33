@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring WebAssembly: The Future of Web Development](https://blog.seancoughlin.me/exploring-webassembly-the-future-of-web-development)
 - [Keeping Your Dependencies Fresh: Automate with GitHub Dependabot](https://blog.seancoughlin.me/keeping-your-dependencies-fresh-automate-with-github-dependabot)
 - [ViteVitest vs. Jest: The New JavaScript Testing Framework](https://sean-coughlin.medium.com/vitevitest-vs-jest-the-new-javascript-testing-framework-cb7d521e4324?source=rss-a1d9ffc70c73------2)
 - [Understanding CI/CD: Streamlining Software Deployment](https://blog.seancoughlin.me/understanding-cicd-streamlining-software-deployment)
 - [jsdom vs happy-dom: Navigating the Nuances of JavaScript Testing](https://blog.seancoughlin.me/jsdom-vs-happy-dom-navigating-the-nuances-of-javascript-testing)
-- [Streamlining Your JavaScript Development with GitHub Actions for Continuous Integration](https://blog.seancoughlin.me/streamlining-your-javascript-development-with-github-actions-for-continuous-integration)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
