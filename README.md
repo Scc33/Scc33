@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Importance of Accessibility in Web Development and Auto-Testing with Playwright and Axe-Playwright](https://blog.seancoughlin.me/the-importance-of-accessibility-in-web-development-and-auto-testing-with-playwright-and-axe-playwright)
 - [Streamlining Web Deployment with GitHub Actions and Continuous Delivery](https://blog.seancoughlin.me/streamlining-web-deployment-with-github-actions-and-continuous-delivery)
 - [Testing React Applications Built with Vite Using Vitest](https://blog.seancoughlin.me/testing-react-applications-built-with-vite-using-vitest)
 - [Testing a React App Built with Vite Using Jest and Babel](https://blog.seancoughlin.me/testing-a-react-app-built-with-vite-using-jest-and-babel)
 - [Exploring WebAssembly: The Future of Web Development](https://blog.seancoughlin.me/exploring-webassembly-the-future-of-web-development)
-- [Keeping Your Dependencies Fresh: Automate with GitHub Dependabot](https://blog.seancoughlin.me/keeping-your-dependencies-fresh-automate-with-github-dependabot)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
