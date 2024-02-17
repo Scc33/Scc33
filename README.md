@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Web Cookies: Navigating the Shift from Third-Party Tracking to Enhanced Privacy](https://blog.seancoughlin.me/understanding-web-cookies-navigating-the-shift-from-third-party-tracking-to-enhanced-privacy)
+- [Crafting a Health Check for Your Website with GitHub Actions](https://blog.seancoughlin.me/crafting-a-health-check-for-your-website-with-github-actions)
 - [Enhancing Web Performance and Quality: Integrating Playwright and Lighthouse](https://blog.seancoughlin.me/enhancing-web-performance-and-quality-integrating-playwright-and-lighthouse)
 - [The Importance of Accessibility in Web Development and Auto-Testing with Playwright and Axe-Playwright](https://blog.seancoughlin.me/the-importance-of-accessibility-in-web-development-and-auto-testing-with-playwright-and-axe-playwright)
 - [Streamlining Web Deployment with GitHub Actions and Continuous Delivery](https://blog.seancoughlin.me/streamlining-web-deployment-with-github-actions-and-continuous-delivery)
-- [Testing React Applications Built with Vite Using Vitest](https://blog.seancoughlin.me/testing-react-applications-built-with-vite-using-vitest)
-- [Testing a React App Built with Vite Using Jest and Babel](https://blog.seancoughlin.me/testing-a-react-app-built-with-vite-using-jest-and-babel)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
