@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [UIUC MCS - CS 598 Review - Foundations of Data Curation](https://blog.seancoughlin.me/uiuc-mcs-cs-598-review-foundations-of-data-curation)
 - [Navigating the IT Maze: A Layman&#39;s Journey Through &quot;The Phoenix Project&quot;](https://blog.seancoughlin.me/navigating-the-it-maze-a-laymans-journey-through-the-phoenix-project)
 - [Understanding Web Cookies: Navigating the Shift from Third-Party Tracking to Enhanced Privacy](https://blog.seancoughlin.me/understanding-web-cookies-navigating-the-shift-from-third-party-tracking-to-enhanced-privacy)
 - [Crafting a Health Check for Your Website with GitHub Actions](https://blog.seancoughlin.me/crafting-a-health-check-for-your-website-with-github-actions)
 - [Enhancing Web Performance and Quality: Integrating Playwright and Lighthouse](https://blog.seancoughlin.me/enhancing-web-performance-and-quality-integrating-playwright-and-lighthouse)
-- [The Importance of Accessibility in Web Development and Auto-Testing with Playwright and Axe-Playwright](https://blog.seancoughlin.me/the-importance-of-accessibility-in-web-development-and-auto-testing-with-playwright-and-axe-playwright)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
