@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Explaining AI: Few-Shot, One-Shot, and Zero-Shot Learning](https://blog.seancoughlin.me/explaining-ai-few-shot-one-shot-and-zero-shot-learning)
+- [Mastering LeetCode&#39;s Palindrome Challenge: A Guide for Engineering Interviews](https://blog.seancoughlin.me/mastering-leetcodes-palindrome-challenge-a-guide-for-engineering-interviews)
 - [Understanding Tokenization in Large Language Models](https://blog.seancoughlin.me/understanding-tokenization-in-large-language-models)
 - [Mastering the Mirror: A Deep Dive into Inverting Binary Trees for LeetCode Success](https://blog.seancoughlin.me/mastering-the-mirror-a-deep-dive-into-inverting-binary-trees-for-leetcode-success)
 - [Cracking the Code: Mastering Anagram Detection in Technical Interviews](https://blog.seancoughlin.me/cracking-the-code-mastering-anagram-detection-in-technical-interviews)
-- [Mastering LeetCode: Merge Two Sorted Lists](https://blog.seancoughlin.me/mastering-leetcode-merge-two-sorted-lists)
-- [Valid Parentheses: A Leetcode Solution Guide](https://blog.seancoughlin.me/valid-parentheses-a-leetcode-solution-guide)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
