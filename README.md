@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Cycle Detection in Linked Lists: A LeetCode Guide](https://blog.seancoughlin.me/mastering-cycle-detection-in-linked-lists-a-leetcode-guide)
 - [Unveiling GraphQL: Revolutionizing Data Querying in Modern Applications](https://blog.seancoughlin.me/unveiling-graphql-revolutionizing-data-querying-in-modern-applications)
 - [Mastering LeetCode&#39;s Height-Balanced Binary Tree: A Comprehensive Guide](https://blog.seancoughlin.me/mastering-leetcodes-height-balanced-binary-tree-a-comprehensive-guide)
 - [Mastering LeetCode&#39;s &quot;Lowest Common Ancestor in a BST&quot;: A Comprehensive Guide](https://blog.seancoughlin.me/mastering-leetcodes-lowest-common-ancestor-in-a-bst-a-comprehensive-guide)
 - [Explaining AI: Few-Shot, One-Shot, and Zero-Shot Learning](https://blog.seancoughlin.me/explaining-ai-few-shot-one-shot-and-zero-shot-learning)
-- [Mastering LeetCode&#39;s Palindrome Challenge: A Guide for Engineering Interviews](https://blog.seancoughlin.me/mastering-leetcodes-palindrome-challenge-a-guide-for-engineering-interviews)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
