@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Conquer the Binary Search: Mastering LeetCode&#39;s Classic Challenge](https://blog.seancoughlin.me/conquer-the-binary-search-mastering-leetcodes-classic-challenge)
 - [Bridging &quot;Atomic Habits&quot; with the World of Programming and Software Engineering](https://blog.seancoughlin.me/bridging-atomic-habits-with-the-world-of-programming-and-software-engineering)
 - [Mastering LeetCode&#39;s &quot;Implement Queue using Stacks&quot;: A Comprehensive Guide for Aspiring Software Engineers](https://blog.seancoughlin.me/mastering-leetcodes-implement-queue-using-stacks-a-comprehensive-guide-for-aspiring-software-engineers)
 - [Mastering LeetCode&#39;s &quot;Max Stock Profit&quot;: A Guide for Aspiring Software Engineers](https://blog.seancoughlin.me/mastering-leetcodes-max-stock-profit-a-guide-for-aspiring-software-engineers)
 - [Mastering Cycle Detection in Linked Lists: A LeetCode Guide](https://blog.seancoughlin.me/mastering-cycle-detection-in-linked-lists-a-leetcode-guide)
-- [Unveiling GraphQL: Revolutionizing Data Querying in Modern Applications](https://blog.seancoughlin.me/unveiling-graphql-revolutionizing-data-querying-in-modern-applications)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
