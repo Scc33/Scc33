@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering LeetCode&#39;s &#39;Middle of the Linked List&#39;: A Comprehensive Guide for Software Engineers](https://blog.seancoughlin.me/mastering-leetcodes-middle-of-the-linked-list-a-comprehensive-guide-for-software-engineers)
+- [Cracking the Code: Mastering Binary Summation on LeetCode](https://blog.seancoughlin.me/cracking-the-code-mastering-binary-summation-on-leetcode)
 - [Mastering LeetCode: Crafting the Longest Palindrome from Mixed Letters](https://blog.seancoughlin.me/mastering-leetcode-crafting-the-longest-palindrome-from-mixed-letters)
 - [Cracking the Code: Mastering the &quot;Ransom Note&quot; Challenge on LeetCode](https://blog.seancoughlin.me/cracking-the-code-mastering-the-ransom-note-challenge-on-leetcode)
 - [Mastering LeetCode&#39;s Majority Element Problem: Strategies for Every Engineer](https://blog.seancoughlin.me/mastering-leetcodes-majority-element-problem-strategies-for-every-engineer)
-- [Mastering LeetCode&#39;s &#39;Reverse Linked List&#39;: A Comprehensive Guide for Engineers](https://blog.seancoughlin.me/mastering-leetcodes-reverse-linked-list-a-comprehensive-guide-for-engineers)
-- [Mastering the Staircase: Dynamic Programming Solutions for LeetCode&#39;s Climbing Stairs Problem](https://blog.seancoughlin.me/mastering-the-staircase-dynamic-programming-solutions-for-leetcodes-climbing-stairs-problem)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
