@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering LeetCode: The Ultimate Guide to Solving &quot;Contains Duplicate&quot;](https://blog.seancoughlin.me/mastering-leetcode-the-ultimate-guide-to-solving-contains-duplicate)
 - [Mastering LeetCode&#39;s &quot;Maximum Depth of Binary Tree&quot;: A Comprehensive Guide](https://blog.seancoughlin.me/mastering-leetcodes-maximum-depth-of-binary-tree-a-comprehensive-guide)
 - [Mastering LeetCode&#39;s &#39;Middle of the Linked List&#39;: A Comprehensive Guide for Software Engineers](https://blog.seancoughlin.me/mastering-leetcodes-middle-of-the-linked-list-a-comprehensive-guide-for-software-engineers)
 - [Cracking the Code: Mastering Binary Summation on LeetCode](https://blog.seancoughlin.me/cracking-the-code-mastering-binary-summation-on-leetcode)
 - [Mastering LeetCode: Crafting the Longest Palindrome from Mixed Letters](https://blog.seancoughlin.me/mastering-leetcode-crafting-the-longest-palindrome-from-mixed-letters)
-- [Cracking the Code: Mastering the &quot;Ransom Note&quot; Challenge on LeetCode](https://blog.seancoughlin.me/cracking-the-code-mastering-the-ransom-note-challenge-on-leetcode)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
