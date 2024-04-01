@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering LeetCode: Unraveling the &#39;Same Tree&#39; Problem](https://blog.seancoughlin.me/mastering-leetcode-unraveling-the-same-tree-problem)
 - [Mastering the Hamming Weight Problem on LeetCode: A Comprehensive Guide](https://blog.seancoughlin.me/mastering-the-hamming-weight-problem-on-leetcode-a-comprehensive-guide)
 - [Unlocking Patterns with K: A Deep Dive into K-Means, K-Medians, and K-Medoids Clustering](https://blog.seancoughlin.me/unlocking-patterns-with-k-a-deep-dive-into-k-means-k-medians-and-k-medoids-clustering)
 - [Mastering Bit Manipulation in LeetCode Challenges: A Guide to Counting Bits](https://blog.seancoughlin.me/mastering-bit-manipulation-in-leetcode-challenges-a-guide-to-counting-bits)
 - [Mastering LeetCode: The Ultimate Guide to Solving &quot;Contains Duplicate&quot;](https://blog.seancoughlin.me/mastering-leetcode-the-ultimate-guide-to-solving-contains-duplicate)
-- [Mastering LeetCode&#39;s &quot;Maximum Depth of Binary Tree&quot;: A Comprehensive Guide](https://blog.seancoughlin.me/mastering-leetcodes-maximum-depth-of-binary-tree-a-comprehensive-guide)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
