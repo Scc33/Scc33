@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering &quot;Longest Common Prefix&quot;: A LeetCode Guide for Aspiring Software Engineers](https://blog.seancoughlin.me/mastering-longest-common-prefix-a-leetcode-guide-for-aspiring-software-engineers)
 - [Mastering Binary Tree Diameters: A LeetCode Guide for Engineers](https://blog.seancoughlin.me/mastering-binary-tree-diameters-a-leetcode-guide-for-engineers)
 - [Mastering LeetCode&#39;s Maximum Subarray Problem: A Comprehensive Guide](https://blog.seancoughlin.me/mastering-leetcodes-maximum-subarray-problem-a-comprehensive-guide)
 - [Mastering LeetCode: Unraveling the &#39;Same Tree&#39; Problem](https://blog.seancoughlin.me/mastering-leetcode-unraveling-the-same-tree-problem)
 - [Mastering the Hamming Weight Problem on LeetCode: A Comprehensive Guide](https://blog.seancoughlin.me/mastering-the-hamming-weight-problem-on-leetcode-a-comprehensive-guide)
-- [Unlocking Patterns with K: A Deep Dive into K-Means, K-Medians, and K-Medoids Clustering](https://blog.seancoughlin.me/unlocking-patterns-with-k-a-deep-dive-into-k-means-k-medians-and-k-medoids-clustering)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
