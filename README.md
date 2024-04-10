@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering LeetCode&#39;s &quot;K Closest Points to Origin&quot;: A Comprehensive Guide](https://blog.seancoughlin.me/mastering-leetcodes-k-closest-points-to-origin-a-comprehensive-guide)
 - [Accelerating Frontend Development with Bun and Vite](https://blog.seancoughlin.me/accelerating-frontend-development-with-bun-and-vite)
 - [Bun: The Comprehensive Toolkit for JavaScript and TypeScript](https://blog.seancoughlin.me/bun-the-comprehensive-toolkit-for-javascript-and-typescript)
 - [Mastering &quot;Longest Common Prefix&quot;: A LeetCode Guide for Aspiring Software Engineers](https://blog.seancoughlin.me/mastering-longest-common-prefix-a-leetcode-guide-for-aspiring-software-engineers)
 - [Mastering Binary Tree Diameters: A LeetCode Guide for Engineers](https://blog.seancoughlin.me/mastering-binary-tree-diameters-a-leetcode-guide-for-engineers)
-- [Mastering LeetCode&#39;s Maximum Subarray Problem: A Comprehensive Guide](https://blog.seancoughlin.me/mastering-leetcodes-maximum-subarray-problem-a-comprehensive-guide)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
