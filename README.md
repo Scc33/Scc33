@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering the 3Sum Problem: A Guide for LeetCode and Coding Interviews](https://blog.seancoughlin.me/mastering-the-3sum-problem-a-guide-for-leetcode-and-coding-interviews)
+- [Mastering Binary Tree Level Order Traversal for LeetCode Interviews](https://blog.seancoughlin.me/mastering-binary-tree-level-order-traversal-for-leetcode-interviews)
 - [Mastering the Backspace String Compare on LeetCode: A Comprehensive Guide](https://blog.seancoughlin.me/mastering-the-backspace-string-compare-on-leetcode-a-comprehensive-guide)
 - [Mastering the Flood Fill Algorithm: A LeetCode Tutorial for Software Engineers](https://blog.seancoughlin.me/mastering-the-flood-fill-algorithm-a-leetcode-tutorial-for-software-engineers)
 - [Mastering LeetCode&#39;s &quot;Insert Interval&quot;: A Comprehensive Guide](https://blog.seancoughlin.me/mastering-leetcodes-insert-interval-a-comprehensive-guide)
-- [Mastering LeetCode&#39;s &quot;K Closest Points to Origin&quot;: A Comprehensive Guide](https://blog.seancoughlin.me/mastering-leetcodes-k-closest-points-to-origin-a-comprehensive-guide)
-- [Accelerating Frontend Development with Bun and Vite](https://blog.seancoughlin.me/accelerating-frontend-development-with-bun-and-vite)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
