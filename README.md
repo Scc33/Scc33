@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering the Challenge: Solve &#39;Longest Substring Without Repeating Characters&#39; on LeetCode](https://blog.seancoughlin.me/mastering-the-challenge-solve-longest-substring-without-repeating-characters-on-leetcode)
+- [Mastering the Clone Graph Problem on LeetCode: A Comprehensive Guide](https://blog.seancoughlin.me/mastering-the-clone-graph-problem-on-leetcode-a-comprehensive-guide)
 - [Mastering LeetCode: Converting Roman to Integer](https://blog.seancoughlin.me/mastering-leetcode-converting-roman-to-integer)
 - [Getting Started with Studying for Software Engineering Interviews Using LeetCode](https://blog.seancoughlin.me/getting-started-with-studying-for-software-engineering-interviews-using-leetcode)
 - [Mastering the 01 Matrix Problem on LeetCode: A Detailed Guide for Aspiring Software Engineers](https://blog.seancoughlin.me/mastering-the-01-matrix-problem-on-leetcode-a-detailed-guide-for-aspiring-software-engineers)
-- [Mastering the 3Sum Problem: A Guide for LeetCode and Coding Interviews](https://blog.seancoughlin.me/mastering-the-3sum-problem-a-guide-for-leetcode-and-coding-interviews)
-- [Mastering Binary Tree Level Order Traversal for LeetCode Interviews](https://blog.seancoughlin.me/mastering-binary-tree-level-order-traversal-for-leetcode-interviews)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
