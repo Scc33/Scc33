@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Debugging Techniques for Software Engineers](https://blog.seancoughlin.me/advanced-debugging-techniques-for-software-engineers)
 - [Optimizing Web Application Performance: Best Practices and Tools](https://blog.seancoughlin.me/optimizing-web-application-performance-best-practices-and-tools)
 - [Mastering Code Reviews: Best Practices and Tools for Software Engineers](https://blog.seancoughlin.me/mastering-code-reviews-best-practices-and-tools-for-software-engineers)
 - [Mastering LeetCode: Evaluating Reverse Polish Notation with Python](https://blog.seancoughlin.me/mastering-leetcode-evaluating-reverse-polish-notation-with-python)
 - [UIUC MCS - CS 412 Review -  Introduction to Data Mining](https://blog.seancoughlin.me/uiuc-mcs-cs-412-review-introduction-to-data-mining)
-- [Mastering the Challenge: Solve &#39;Longest Substring Without Repeating Characters&#39; on LeetCode](https://blog.seancoughlin.me/mastering-the-challenge-solve-longest-substring-without-repeating-characters-on-leetcode)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
