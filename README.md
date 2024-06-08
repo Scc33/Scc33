@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Privacy by Design in Your Software Projects](https://blog.seancoughlin.me/implementing-privacy-by-design-in-your-software-projects)
 - [Mastering LeetCode: Implementing a Trie &lpar;Prefix Tree&rpar; in Python](https://blog.seancoughlin.me/mastering-leetcode-implementing-a-trie-prefix-tree-in-python)
 - [Securing Your Web Applications: Best Practices and Tools](https://blog.seancoughlin.me/securing-your-web-applications-best-practices-and-tools)
 - [Advanced Debugging Techniques for Software Engineers](https://blog.seancoughlin.me/advanced-debugging-techniques-for-software-engineers)
 - [Optimizing Web Application Performance: Best Practices and Tools](https://blog.seancoughlin.me/optimizing-web-application-performance-best-practices-and-tools)
-- [Mastering Code Reviews: Best Practices and Tools for Software Engineers](https://blog.seancoughlin.me/mastering-code-reviews-best-practices-and-tools-for-software-engineers)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
