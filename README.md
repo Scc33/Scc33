@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Messaging Queues: The Backbone of Modern Software Architecture](https://blog.seancoughlin.me/understanding-messaging-queues-the-backbone-of-modern-software-architecture)
 - [Optimizing API Performance: Best Practices and Tools](https://blog.seancoughlin.me/optimizing-api-performance-best-practices-and-tools)
 - [Building Resilient Software: Strategies for Robust and Fault-Tolerant Applications](https://blog.seancoughlin.me/building-resilient-software-strategies-for-robust-and-fault-tolerant-applications)
 - [Automating Your Development Workflow: Best Practices and Tools](https://blog.seancoughlin.me/automating-your-development-workflow-best-practices-and-tools)
 - [Implementing Privacy by Design in Your Software Projects](https://blog.seancoughlin.me/implementing-privacy-by-design-in-your-software-projects)
-- [Mastering LeetCode: Implementing a Trie &lpar;Prefix Tree&rpar; in Python](https://blog.seancoughlin.me/mastering-leetcode-implementing-a-trie-prefix-tree-in-python)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
