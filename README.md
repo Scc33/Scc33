@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Comparing JavaScript End-to-End Testing Frameworks: Cypress vs. Selenium vs. Playwright](https://blog.seancoughlin.me/comparing-javascript-end-to-end-testing-frameworks-cypress-vs-selenium-vs-playwright)
 - [Comparing Modern JavaScript Testing Frameworks: Jest, Mocha, and Vitest](https://blog.seancoughlin.me/comparing-modern-javascript-testing-frameworks-jest-mocha-and-vitest)
 - [Understanding Messaging Queues: The Backbone of Modern Software Architecture](https://blog.seancoughlin.me/understanding-messaging-queues-the-backbone-of-modern-software-architecture)
 - [Optimizing API Performance: Best Practices and Tools](https://blog.seancoughlin.me/optimizing-api-performance-best-practices-and-tools)
 - [Building Resilient Software: Strategies for Robust and Fault-Tolerant Applications](https://blog.seancoughlin.me/building-resilient-software-strategies-for-robust-and-fault-tolerant-applications)
-- [Automating Your Development Workflow: Best Practices and Tools](https://blog.seancoughlin.me/automating-your-development-workflow-best-practices-and-tools)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
