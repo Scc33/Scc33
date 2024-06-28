@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering the MinStack: Efficiently Supporting Minimum Element Retrieval in Constant Time](https://blog.seancoughlin.me/mastering-the-minstack-efficiently-supporting-minimum-element-retrieval-in-constant-time)
+- [Mastering LeetCode: Solving the &quot;Product of Array Except Self&quot; Problem](https://blog.seancoughlin.me/mastering-leetcode-solving-the-product-of-array-except-self-problem)
 - [Mastering LeetCode&#39;s Coin Change Problem: A Comprehensive Guide](https://blog.seancoughlin.me/mastering-leetcodes-coin-change-problem-a-comprehensive-guide)
 - [Building Resilient Applications with Circuit Breaker Pattern](https://blog.seancoughlin.me/building-resilient-applications-with-circuit-breaker-pattern)
 - [Comparing JavaScript End-to-End Testing Frameworks: Cypress vs. Selenium vs. Playwright](https://blog.seancoughlin.me/comparing-javascript-end-to-end-testing-frameworks-cypress-vs-selenium-vs-playwright)
-- [Comparing Modern JavaScript Testing Frameworks: Jest, Mocha, and Vitest](https://blog.seancoughlin.me/comparing-modern-javascript-testing-frameworks-jest-mocha-and-vitest)
-- [Understanding Messaging Queues: The Backbone of Modern Software Architecture](https://blog.seancoughlin.me/understanding-messaging-queues-the-backbone-of-modern-software-architecture)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
