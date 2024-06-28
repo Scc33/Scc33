@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering LeetCode: Counting the Number of Islands in a 2D Binary Grid](https://blog.seancoughlin.me/mastering-leetcode-counting-the-number-of-islands-in-a-2d-binary-grid)
 - [Mastering LeetCode: Binary Search Tree Validation](https://blog.seancoughlin.me/mastering-leetcode-binary-search-tree-validation)
 - [Mastering the MinStack: Efficiently Supporting Minimum Element Retrieval in Constant Time](https://blog.seancoughlin.me/mastering-the-minstack-efficiently-supporting-minimum-element-retrieval-in-constant-time)
 - [Mastering LeetCode: Solving the &quot;Product of Array Except Self&quot; Problem](https://blog.seancoughlin.me/mastering-leetcode-solving-the-product-of-array-except-self-problem)
 - [Mastering LeetCode&#39;s Coin Change Problem: A Comprehensive Guide](https://blog.seancoughlin.me/mastering-leetcodes-coin-change-problem-a-comprehensive-guide)
-- [Building Resilient Applications with Circuit Breaker Pattern](https://blog.seancoughlin.me/building-resilient-applications-with-circuit-breaker-pattern)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
