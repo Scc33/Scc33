@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Decoding Large Language Models: Unveiling the Secrets of AI Powerhouses](https://blog.seancoughlin.me/decoding-large-language-models-unveiling-the-secrets-of-ai-powerhouses)
 - [Solving LeetCode&#39;s Combination Sum Problem: Optimized Techniques for Efficient Solutions](https://blog.seancoughlin.me/solving-leetcodes-combination-sum-problem-optimized-techniques-for-efficient-solutions)
 - [NestJS and the JavaScript Backend Ecosystem: A Developer&#39;s Journey](https://blog.seancoughlin.me/nestjs-and-the-javascript-backend-ecosystem-a-developers-journey)
 - [Rotting Oranges: A Comprehensive Guide to Solving with BFS in Python](https://blog.seancoughlin.me/rotting-oranges-a-comprehensive-guide-to-solving-with-bfs-in-python)
 - [Mastering LeetCode: Counting the Number of Islands in a 2D Binary Grid](https://blog.seancoughlin.me/mastering-leetcode-counting-the-number-of-islands-in-a-2d-binary-grid)
-- [Mastering LeetCode: Binary Search Tree Validation](https://blog.seancoughlin.me/mastering-leetcode-binary-search-tree-validation)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
