@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering LeetCode: Solving the Lowest Common Ancestor of a Binary Tree Problem](https://blog.seancoughlin.me/mastering-leetcode-solving-the-lowest-common-ancestor-of-a-binary-tree-problem)
 - [Mastering LeetCode: Generating All Permutations of an Array](https://blog.seancoughlin.me/mastering-leetcode-generating-all-permutations-of-an-array)
 - [Conquer the Binary Search: Mastering LeetCode’s Rotated Sorted Array Challenge](https://blog.seancoughlin.me/conquer-the-binary-search-mastering-leetcodes-rotated-sorted-array-challenge)
 - [Decoding Large Language Models: Unveiling the Secrets of AI Powerhouses](https://blog.seancoughlin.me/decoding-large-language-models-unveiling-the-secrets-of-ai-powerhouses)
 - [Solving LeetCode&#39;s Combination Sum Problem: Optimized Techniques for Efficient Solutions](https://blog.seancoughlin.me/solving-leetcodes-combination-sum-problem-optimized-techniques-for-efficient-solutions)
-- [NestJS and the JavaScript Backend Ecosystem: A Developer&#39;s Journey](https://blog.seancoughlin.me/nestjs-and-the-javascript-backend-ecosystem-a-developers-journey)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
