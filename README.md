@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Atomic CSS?](https://blog.seancoughlin.me/what-is-atomic-css)
 - [Mastering the Merging of Overlapping Intervals in Python](https://blog.seancoughlin.me/mastering-the-merging-of-overlapping-intervals-in-python)
 - [Mastering LeetCode: Solving the Lowest Common Ancestor of a Binary Tree Problem](https://blog.seancoughlin.me/mastering-leetcode-solving-the-lowest-common-ancestor-of-a-binary-tree-problem)
 - [Mastering LeetCode: Generating All Permutations of an Array](https://blog.seancoughlin.me/mastering-leetcode-generating-all-permutations-of-an-array)
 - [Conquer the Binary Search: Mastering LeetCode’s Rotated Sorted Array Challenge](https://blog.seancoughlin.me/conquer-the-binary-search-mastering-leetcodes-rotated-sorted-array-challenge)
-- [Decoding Large Language Models: Unveiling the Secrets of AI Powerhouses](https://blog.seancoughlin.me/decoding-large-language-models-unveiling-the-secrets-of-ai-powerhouses)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
