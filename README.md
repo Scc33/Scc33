@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Snapshot Testing with Vite, Vitest, or Jest in TypeScript](https://blog.seancoughlin.me/mastering-snapshot-testing-with-vite-vitest-or-jest-in-typescript)
 - [HTTPS and TLS Explained](https://blog.seancoughlin.me/https-and-tls-explained)
 - [What is Atomic CSS?](https://blog.seancoughlin.me/what-is-atomic-css)
 - [Mastering the Merging of Overlapping Intervals in Python](https://blog.seancoughlin.me/mastering-the-merging-of-overlapping-intervals-in-python)
 - [Mastering LeetCode: Solving the Lowest Common Ancestor of a Binary Tree Problem](https://blog.seancoughlin.me/mastering-leetcode-solving-the-lowest-common-ancestor-of-a-binary-tree-problem)
-- [Mastering LeetCode: Generating All Permutations of an Array](https://blog.seancoughlin.me/mastering-leetcode-generating-all-permutations-of-an-array)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
