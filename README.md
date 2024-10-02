@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Multithreading in Java and Spring Boot](https://blog.seancoughlin.me/multithreading-in-java-and-spring-boot)
 - [Understanding Concurrency vs. Parallelization](https://blog.seancoughlin.me/understanding-concurrency-vs-parallelization)
 - [Gradle: Java Build Tools, Tasks, Dependencies, and Multi-Project Builds](https://blog.seancoughlin.me/gradle-java-build-tools-tasks-dependencies-and-multi-project-builds)
 - [Mastering Snapshot Testing with Vite, Vitest, or Jest in TypeScript](https://blog.seancoughlin.me/mastering-snapshot-testing-with-vite-vitest-or-jest-in-typescript)
 - [HTTPS and TLS Explained](https://blog.seancoughlin.me/https-and-tls-explained)
-- [What is Atomic CSS?](https://blog.seancoughlin.me/what-is-atomic-css)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
