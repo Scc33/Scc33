@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an Accessible Web: Key Features Every Developer Should Implement](https://blog.seancoughlin.me/building-an-accessible-web-key-features-every-developer-should-implement)
 - [Supercharge Your Java App: Performance Testing with Gatling](https://blog.seancoughlin.me/supercharge-your-java-app-performance-testing-with-gatling)
 - [Using ChatGPT as a Study Partner](https://blog.seancoughlin.me/using-chatgpt-as-a-study-partner)
 - [Multithreading in Java and Spring Boot](https://blog.seancoughlin.me/multithreading-in-java-and-spring-boot)
 - [Understanding Concurrency vs. Parallelization](https://blog.seancoughlin.me/understanding-concurrency-vs-parallelization)
-- [Gradle: Java Build Tools, Tasks, Dependencies, and Multi-Project Builds](https://blog.seancoughlin.me/gradle-java-build-tools-tasks-dependencies-and-multi-project-builds)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
