@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **coughlinscc33@gmail.com**
 
-- 📄 Know about my experiences [https://seancoughlin.me/resume.html](https://seancoughlin.me/assets/Resume.pdf)
+- 📄 Know about my experiences [https://seancoughlin.me/resume.html](https://www.seancoughlin.me/Resume.pdf)
 
 - ⚡ Fun fact **I juggle**
 
